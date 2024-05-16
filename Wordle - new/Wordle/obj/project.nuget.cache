@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NsAcfyadFZ9Zd4Iv6OC+11b38/ciPL0EgTemaDuoU/fWz3dYkUWJTRkrnpNLFsnyhPVxhjbuF6sCD/CejEib7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\Wordle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szabo.balazs\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

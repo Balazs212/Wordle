@@ -1,0 +1,6 @@
+C:\Users\szabo.balazs\Downloads\Wordle\Wordle - new\Wordle\bin\Release\net8.0-windows\publish\Wordle.exe
+C:\Users\szabo.balazs\Downloads\Wordle\Wordle - new\Wordle\bin\Release\net8.0-windows\publish\Wordle.dll
+C:\Users\szabo.balazs\Downloads\Wordle\Wordle - new\Wordle\bin\Release\net8.0-windows\publish\Wordle.deps.json
+C:\Users\szabo.balazs\Downloads\Wordle\Wordle - new\Wordle\bin\Release\net8.0-windows\publish\Wordle.runtimeconfig.json
+C:\Users\szabo.balazs\Downloads\Wordle\Wordle - new\Wordle\bin\Release\net8.0-windows\publish\Wordle.pdb
+C:\Users\szabo.balazs\Downloads\Wordle\Wordle - new\Wordle\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll

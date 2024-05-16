@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\Wordle.csproj",
+      "projectUniqueName": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\Wordle.csproj",
       "projectName": "Wordle",
-      "projectPath": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\Wordle.csproj",
+      "projectPath": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\Wordle.csproj",
       "packagesPath": "C:\\Users\\szabo.balazs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\obj\\",
+      "outputPath": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\szabo.balazs\\AppData\\Roaming\\NuGet\\NuGet.Config",

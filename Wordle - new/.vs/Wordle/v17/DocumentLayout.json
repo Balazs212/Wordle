@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\",
+  "WorkspaceRootPath": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|c:\\users\\szabo.balazs\\downloads\\wordle - new\\wordle\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|c:\\users\\szabo.balazs\\downloads\\wordle\\wordle - new\\wordle\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|solutionrelative:wordle\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|c:\\users\\szabo.balazs\\downloads\\wordle - new\\wordle\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|c:\\users\\szabo.balazs\\downloads\\wordle\\wordle - new\\wordle\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|solutionrelative:wordle\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|c:\\users\\szabo.balazs\\downloads\\wordle - new\\wordle\\game.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|c:\\users\\szabo.balazs\\downloads\\wordle\\wordle - new\\wordle\\game.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|solutionrelative:wordle\\game.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|c:\\users\\szabo.balazs\\downloads\\wordle - new\\wordle\\words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|c:\\users\\szabo.balazs\\downloads\\wordle\\wordle - new\\wordle\\words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|solutionrelative:wordle\\words.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|c:\\users\\szabo.balazs\\downloads\\wordle - new\\wordle\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|c:\\users\\szabo.balazs\\downloads\\wordle\\wordle - new\\wordle\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|solutionrelative:wordle\\game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|c:\\users\\szabo.balazs\\downloads\\wordle - new\\wordle\\wordle.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|c:\\users\\szabo.balazs\\downloads\\wordle\\wordle - new\\wordle\\wordle.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{27560F47-ADBD-4335-9828-1CE84503C73B}|Wordle\\Wordle.csproj|solutionrelative:wordle\\wordle.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Words.cs",
-              "DocumentMoniker": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\Words.cs",
+              "DocumentMoniker": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\Words.cs",
               "RelativeDocumentMoniker": "Wordle\\Words.cs",
-              "ToolTip": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\Words.cs",
+              "ToolTip": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\Words.cs",
               "RelativeToolTip": "Wordle\\Words.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Game.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\Game.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\Game.xaml.cs",
               "RelativeDocumentMoniker": "Wordle\\Game.xaml.cs",
-              "ToolTip": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\Game.xaml.cs",
+              "ToolTip": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\Game.xaml.cs",
               "RelativeToolTip": "Wordle\\Game.xaml.cs",
               "ViewState": "AQIAAHAAAAAAAAAAAAAawCYBAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,9 +68,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Game.xaml",
-              "DocumentMoniker": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\Game.xaml",
+              "DocumentMoniker": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\Game.xaml",
               "RelativeDocumentMoniker": "Wordle\\Game.xaml",
-              "ToolTip": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\Game.xaml",
+              "ToolTip": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\Game.xaml",
               "RelativeToolTip": "Wordle\\Game.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-05T17:43:30.37Z"
@@ -79,9 +79,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Wordle",
-              "DocumentMoniker": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\Wordle.csproj",
+              "DocumentMoniker": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\Wordle.csproj",
               "RelativeDocumentMoniker": "Wordle\\Wordle.csproj",
-              "ToolTip": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\Wordle.csproj",
+              "ToolTip": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\Wordle.csproj",
               "RelativeToolTip": "Wordle\\Wordle.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-05T16:21:01.384Z"
@@ -90,9 +90,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Wordle\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\MainWindow.xaml",
               "RelativeToolTip": "Wordle\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-05T16:19:54.35Z"
@@ -101,11 +101,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Wordle\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\szabo.balazs\\Downloads\\Wordle - new\\Wordle\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\szabo.balazs\\Downloads\\Wordle\\Wordle - new\\Wordle\\MainWindow.xaml.cs",
               "RelativeToolTip": "Wordle\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAmwIQAAAABAAAA",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAmwIIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T16:19:51.545Z",
               "EditorCaption": ""

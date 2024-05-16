@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\szabo.balazs\Downloads\Wordle - new\Wordle\obj\Debug\net8.0-windows\
+C:\Users\szabo.balazs\Downloads\Wordle\Wordle - new\Wordle\obj\Debug\net8.0-windows\
 Wordle
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\szabo.balazs\Downloads\Wordle - new\Wordle\App.xaml
+C:\Users\szabo.balazs\Downloads\Wordle\Wordle - new\Wordle\App.xaml
 2-1130517889
 
 8349765654
 1991273202204
 Game.xaml;MainWindow.xaml;
 
-True
+False
 
